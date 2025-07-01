@@ -1,0 +1,13 @@
+# Pneumonia Methylation Model Training
+from src.train import train_model
+from src.evaluate import evaluate_model
+
+# Train model
+model = train_model(x_train, y_train)
+
+# Evaluate model
+accuracy, report = evaluate_model(model, x_test, y_test)
+
+print(f"Model Accuracy: {accuracy:.2f}")
+print("Classification Report:")
+print(report)
