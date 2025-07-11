@@ -1,0 +1,11 @@
+# Data Instructions
+
+## Original Dataset
+- **Name**: Pneumonia Methylation Data
+- **Source**: GEO Database
+- **Accession**: GSE192702
+- **Size**: 126 samples, 200+ CpG sites
+
+## How to Obtain
+1. Download from GEO: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE192702
+2. Place raw data files in this folder

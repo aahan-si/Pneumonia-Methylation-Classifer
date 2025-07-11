@@ -1,0 +1,23 @@
+# Exclude data files  
+*.xlsx  
+*.csv  
+*.pkl  
+
+# Exclude Python cache  
+__pycache__/  
+*.pyc  
+
+# Exclude Jupyter checkpoints  
+.ipynb_checkpoints/  
+
+# Exclude IDE files  
+.vscode/  
+.idea/  
+
+# Exclude large files  
+*.zip  
+*.tar  
+
+# Exclude environment files  
+env/  
+venv/  
