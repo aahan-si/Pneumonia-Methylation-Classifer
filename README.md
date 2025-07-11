@@ -31,6 +31,7 @@ Pneumonia lacks early, accurate diagnostic tools. DNA methylation offers a power
 - External cohort validation
 - Prototype clinical dashboard
 - Add time-dependent infection classification
+- Add region-based adaptabilty and identification
 
 ##  Skills & Tools
 `Python`, `pandas`, `scikit-learn`, `matplotlib`, `SHAP`, `RFE`, `GREAT`, `UCSC Genome Browser`
