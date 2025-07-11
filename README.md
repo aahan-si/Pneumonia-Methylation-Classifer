@@ -33,6 +33,16 @@ Pneumonia lacks early, accurate diagnostic tools. DNA methylation offers a power
 - Add time-dependent infection classification
 - Add region-based adaptabilty and identification
 
+## How to Run
+
+1. Clone the repo.
+2. Install dependencies via `pip install -r requirements.txt` or `conda env create -f environment.yml`.
+3. Launch Jupyter: `jupyter notebook`
+4. Run notebooks in order:  
+   1. `01_preprocessing_and_SMOTE.ipynb`  
+   2. `02_feature_selection_RFE_SHAP.ipynb`  
+   3. `03_model_training_and_results.ipynb`
+
 ##  Skills & Tools
 `Python`, `pandas`, `scikit-learn`, `matplotlib`, `SHAP`, `RFE`, `GREAT`, `UCSC Genome Browser`
 
