@@ -24,7 +24,8 @@ Pneumonia lacks early, accurate diagnostic tools. DNA methylation offers a power
   - Precision: 98%
   - Recall: 98%
   - F1-score: 98%
-- Biomarkers enriched for immune & pulmonary pathways (e.g., **C1QB, SMAD9, LILRB4, EPHB2**) ![SHAP Summary](results/Top20CpGSites.png)
+- Biomarkers enriched for immune & pulmonary pathways (e.g., **C1QB, SMAD9, LILRB4, EPHB2**)
+- Identified 10 Highly Predictive Pneumonia CpG Sites
 ##  Future Work
 - External cohort validation
 - Prototype clinical dashboard
