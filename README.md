@@ -25,7 +25,7 @@ Pneumonia lacks early, accurate diagnostic tools. DNA methylation offers a power
   - Recall: 98%
   - F1-score: 98%
 - Biomarkers enriched for immune & pulmonary pathways (e.g., **C1QB, SMAD9, LILRB4, EPHB2**)
-
+![SHAP Summary](results/SHAP_summary_plot.png)
 ##  Future Work
 - External cohort validation
 - Prototype clinical dashboard
