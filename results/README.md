@@ -12,6 +12,3 @@
 8. chr16:7805346    0.041672
 9. chr4:89305862    0.041453
 10. chr22:39020422  0.040068
-
-- Full results in notebooks  
-![SHAP Summary](figures/shap_summary.png)  
